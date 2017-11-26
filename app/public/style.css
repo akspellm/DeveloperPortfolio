@@ -1,0 +1,19 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#greeting-photo {
+    width: 100%
+}
+
+#cover-photo {
+    width: 100%;
+    background-size: cover
+}
+
+#greeting-text {
+    text-align: center
+}
+.arrow {
+    height: 150px
+}
