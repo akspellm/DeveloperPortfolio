@@ -27,12 +27,12 @@ body {
     height: 100px
 }
 
-#about, #portfolio {
+#about, #portfolio, #contact, #connect {
     text-align: center;
     margin-top: 20%
 }
 
-#about-start, #portfolio-start {
+#about-start, #portfolio-start, #contact-start, #connect-start {
     padding-top: 25%;
     color: #005579
 }
@@ -44,5 +44,27 @@ body {
 a {
     text-decoration: none
 }
+
+.socials {
+    height: 100px;
+    margin-top: 15%
+}
+
+#connect-form {
+    margin-top: 3%
+}
+
+#my-name {
+    font-size: 200%
+}
+
+.nav-link {
+    font-size: 150%
+}
+
+#connect-form {
+    padding-bottom: 10%
+}
+
 
 
